@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Thato Mogale 👋🏽💜</h1>
 
 <h3 align="center">
-Software Engineering Student • Aspiring Backend Developer • Lifelong Learner 📚
+Software Engineering Student • Lifelong Learner 📚
 </h3>
 
 <p align="center">
@@ -72,6 +72,8 @@ Outside of coding, I enjoy learning new things, exploring creative ideas, and fi
 
 💄 Enhancing my make-up / beauty skills
 
+📝 Journaling
+
 ---
 
 ## 🌟 My Values
@@ -86,7 +88,7 @@ Outside of coding, I enjoy learning new things, exploring creative ideas, and fi
 
 ## 🎯 Current Goal
 
-I'm building my skills **one commit at a time** while working towards becoming a backend software engineer who creates meaningful technology.
+I'm building my skills **one commit at a time** while working towards becoming a software engineer who creates meaningful technology.
 
 ---
 
