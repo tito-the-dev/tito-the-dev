@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Thato Mogale 👋🏽💜</h1>
 
 <h3 align="center">
-Software Engineering Student • Aspiring Backend Developer • Lifelong Learner 🇿🇦
+Software Engineering Student • Aspiring Backend Developer • Lifelong Learner 📚
 </h3>
 
 <p align="center">
