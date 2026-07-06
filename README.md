@@ -17,7 +17,7 @@ Software Engineering Student • Aspiring Backend Developer • Lifelong Learner
 
 ## 🌸 About Me
 
-Hi! I'm **Thato**, a software engineering student from **South Africa** 🇿🇦.
+Hi! I'm **Thato**, a software engineering student from **South Africa**.
 
 I'm passionate about technology, continuous learning, and becoming a developer who builds software that genuinely helps people.
 
@@ -34,22 +34,8 @@ Outside of coding, I enjoy learning new things, exploring creative ideas, and fi
 - 🌐 Git & GitHub
 - 💻 Software Engineering
 - 🧠 Problem Solving & Algorithms
-- ☁️ Cloud Computing
+- ☁️ Data Engineering
 - 🔐 Cybersecurity Fundamentals
-
----
-
-## 🚀 Projects
-
-Here are a few projects you'll find in my repositories:
-
-- 🎮 UNO Game
-- 🤖 RobotWorld
-- 💰 Cash Register
-- 🎲 Dice Simulator
-- 🔐 Password Validator
-- 💬 IRC Client
-- 📚 More learning projects coming soon...
 
 ---
 
@@ -81,6 +67,10 @@ Here are a few projects you'll find in my repositories:
 ☕ Drinking coffee while debugging
 
 💜 Growing spiritually and personally
+
+🏋️ Doing cardio exercises and jogging
+
+💄 Enhancing my make-up / beauty skills
 
 ---
 
@@ -120,9 +110,9 @@ I'm building my skills **one commit at a time** while working towards becoming a
 
 ## 🌸 Let's Connect
 
-📧 Email: your@email.com
+📧 Email: thato0087@gmail.com
 
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: https://www.linkedin.com/in/thato-mogale-687b32239?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 🌍 Portfolio: Coming Soon
 
