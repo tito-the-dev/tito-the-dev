@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F3eW8wdXQ1dDNnY3Z5ZjB2aTB6aGN6b2lpdzQ4N3I2dWN3djZ2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQf4J0Z7Q4/giphy.gif" width="250" alt="Cute girl coding">
 </p>
 
-<h1 align="center">Hi, I'm Thato Mogale 👋🏽💜</h1>
+<h1 align="center">Hi, I'm Thato Mogale 👋🏽🩷</h1>
 
 <h3 align="center">
 Software Engineering Student • Lifelong Learner 📚
