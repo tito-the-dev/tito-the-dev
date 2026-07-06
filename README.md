@@ -1,4 +1,4 @@
-## Hi there I'm Thato 
+## Hi there I'm Thato 😀
 
 
 **tito-the-dev/tito-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
