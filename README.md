@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a student studying Software Engineering
 - 🌱 I’m currently learning to code in Python, Java and C
-- 📫 How to reach me: Email: thato0087@gmail.com
+- 📫 How to reach me: Email: thato0087@gmail.com                                   <img width="480" height="480" alt="LionelMessiGIF" src="https://github.com/user-attachments/assets/372d90f7-7fcd-480d-b3cd-3eb3240890a2" />
+ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like attending tech events
 
